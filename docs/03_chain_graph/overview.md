@@ -4,7 +4,7 @@
 
 Chain Graph System represents a paradigm shift in how AI agents are created and managed. It transforms complex AI programming into an intuitive visual experience while maintaining enterprise-grade capabilities.
 
-![Chain Graph Example](./assets/chain-graph-example.png)
+![Chain Graph Example](/assets/chain-graph-example.png)
 
 ## Core Technology Overview
 
